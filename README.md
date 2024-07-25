@@ -1,13 +1,5 @@
 # CityReads
 
-## Application Links
-[![Application Link](https://img.shields.io/badge/Application-green?style=for-the-badge)](http://34.75.0.13:8500/)
-
-[![Codelabs](https://img.shields.io/badge/Codelabs-blue?style=for-the-badge)](https://codelabs-preview.appspot.com/?file_id=1jFy6Rx0jzpvzu8b_3Qoau-6H9RGZU_eqZh1-KDYAFwI#0)
-
-[![Video](https://img.shields.io/badge/Video-CC6699?style=for-the-badge)](https://youtu.be/mWA-ZNdFogo)
-
-
 ## Problem Statement
 
 Welcome to an innovative digital library platform that revolutionizes the way individuals connect with knowledge and stories in the digital age. Our mission is to create a user-centric experience that empowers users to explore, discover, and engage with content tailored to their unique interests and preferences.
@@ -217,11 +209,3 @@ Our focus is on enhancing user satisfaction, facilitating informed decision-maki
 - JWT Tokens: https://jwt.io/introduction
 - gTTs: https://gtts.readthedocs.io/en/latest/
 
-
-## Team Contribution:
-
-| Name            | Contribution % | Contributions |
-|-----------------|----------------|---------------|
-| Anirudha Joshi     |     33.3%      | Architecture Planning, OpenAI Book Attributes Implementation, Database Querying, Dockerization, VM Deployment, Airflow Pipeline, Audio Trailers            |
-| Nitant Jatale |     33.3%      | Architecture Planning, Database Setup, Book Recommendation Implementation, FastAPI, Pinecone Implementation           |
-| Rutuja More  |     33.3%      | Architecture Planning, Streamlit Interface Implementation, API Endpoints Building, Documentation            |
