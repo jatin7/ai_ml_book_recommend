@@ -17,8 +17,7 @@ Our focus is on enhancing user satisfaction, facilitating informed decision-maki
 
 
 ## Architecture Diagram
-![image](https://github.com/BigDataIA-Spring2024-Sec1-Team4/FinalProject/assets/114356265/a50711ae-f3d1-486a-9812-526c7925966a)
-
+![326124979-a50711ae-f3d1-486a-9812-526c7925966a](https://github.com/user-attachments/assets/0770d9fb-2ddf-4094-863a-91a6c4eb655d)
 
 ## Technology Stack
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
@@ -43,7 +42,8 @@ Our focus is on enhancing user satisfaction, facilitating informed decision-maki
   - Answer questions about preferred types of books, mood, theme, and pace.
   - Go to Book Recommendation tab on the Navigation bar to get initial book recommendations based on your answers.
   
-![chatbot](https://github.com/BigDataIA-Spring2024-Sec1-Team4/FinalProject/assets/114356265/22d3f1c0-a6a4-4611-af6d-0561402a9ca0)
+
+![325804363-22d3f1c0-a6a4-4611-af6d-0561402a9ca0](https://github.com/user-attachments/assets/9b51bd32-1280-42a7-995a-c76df7e04d39)
 
 - Searching for Books:
   - Go to the Search Books Tab.
