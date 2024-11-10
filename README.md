@@ -35,8 +35,10 @@ Our focus is on enhancing user satisfaction, facilitating informed decision-maki
   - Local: Windows 11, Docker (WLS 2), Python, Streamlit
   - Cloud: PineCone Vector Database Account, AWS S3, Snowflake Account
 ## Setup 
-On local machine, open command prompt
-python -m venv .venv
+- On local machine, open command prompt
+- python -m venv .venv
+- .venv\Scripts\activate.bat
+- pip install requirements.txt
 
 
 ## Using the Application
