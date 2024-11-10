@@ -32,7 +32,7 @@ Our focus is on enhancing user satisfaction, facilitating informed decision-maki
 
 ## Setup 
 ### Pre-requisite
-  - Local: Windows 11, Docker (WLS 2), Python, Streamlit
+  - Local: Windows 11, Docker (WLS 2), Python, Streamlit, fastapi
   - Cloud: PineCone Vector Database Account, AWS S3, Snowflake Account
 ## Setup 
 - On local machine, open command prompt
