@@ -1,4 +1,4 @@
-# CityReads
+# CityReads - Local Book Recommendation Engine based on Users Interest
 
 ## Problem Statement
 
@@ -21,7 +21,6 @@ Our focus is on enhancing user satisfaction, facilitating informed decision-maki
 
 ## Technology Stack
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
-[![GCP provider](https://img.shields.io/badge/GCP-orange?style=for-the-badge&logo=google-cloud&color=orange)](https://cloud.google.com/?hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=purple)](https://www.python.org/)
 [![Apache Airflow](https://img.shields.io/badge/apacheairflow-2A667F?style=for-the-badge&logo=ApacheAirflow&logoColor=black)](https://airflow.apache.org/)
@@ -31,6 +30,10 @@ Our focus is on enhancing user satisfaction, facilitating informed decision-maki
 [![Amazon S3](https://img.shields.io/badge/amazons3-535D6C?style=for-the-badge&logo=amazons3&logoColor=black)](https://aws.amazon.com/s3/)
 
 
+## Setup 
+### Pre-requisite
+  Local: Windows 11, Docker (WLS 2), Python, Streamlit
+  Cloud: PineCone Vector Database Account, AWS S3, Snowflake Account
 
 ## Using the Application
 - User Registration and Login:
